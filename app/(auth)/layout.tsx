@@ -5,7 +5,7 @@ import '../globals.css'
 
 export const metadata = {
     title: 'Threads',
-    descript: 'A Next.js Meta Threads application'
+    descript: 'A Next.js Meta Threads clone'
 }
 
 const inter = Inter({ subsets: ["latin"] });
